@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RssLab</string>
+    <string name="google_account_type">com.google</string>
+
+    <string name="dbName">RssLab</string>
+    <string name="tableNameTag">tag</string>
+    <string name="table_tag_tagName">tagName</string>
+
+
+    <string name="google_reader_url_subscription">https://www.google.com/reader/api/0/subscription/list?output=json
+    </string>
+
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="fill_parent">
+    <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/FeedLabel"
+            android:textSize="30dip"
+            android:layout_weight="5"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            android:padding="10px"
+
+            >
+    </TextView>
+    <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/FeedCount"
+            android:textSize="30dip"
+            android:layout_weight="1"
+            android:background="@color/white"
+            android:textColor="@color/black"
+            >
+    </TextView>
+</LinearLayout>
